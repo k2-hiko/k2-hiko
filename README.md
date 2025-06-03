@@ -26,7 +26,7 @@ Java / Spring Boot を中心にWebアプリ開発を学習している社会人�
 
 | リポジトリ名 | 内容 |
 |--------------|------|
-| [exam-webapp](https://github.com/k2-hiko/exam-webapp) | Spring Boot × MySQLによる模擬試験Webアプリ |
+| [exam-webapp](https://github.com/k2-hiko/java) | Spring Boot × MySQLによる模擬試験Webアプリ |
 | [register-user-demo](https://github.com/k2-hiko/register-user-demo) | ユーザー登録機能（HTML/CSS/Java） |
 
 ---
